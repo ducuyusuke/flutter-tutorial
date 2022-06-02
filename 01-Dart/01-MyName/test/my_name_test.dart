@@ -1,6 +1,4 @@
 import 'package:test/test.dart';
-import 'package:test/expect.dart';
-import 'package:test/scaffolding.dart';
 
 void main() {
   test('deve retornar uma string', () {
