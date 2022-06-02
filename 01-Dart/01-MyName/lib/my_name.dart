@@ -1,0 +1,3 @@
+String myName() {
+  return 'herman';
+}
